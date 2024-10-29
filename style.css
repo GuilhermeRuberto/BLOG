@@ -154,3 +154,23 @@ aside{
     background-color: #dadada;
     border-radius: 5px;
 }
+
+.top-margin{
+    margin-top: 10px; 
+}
+
+.ler{
+    font-size: small;
+}
+
+.imges{
+    margin-left: 8.5%;
+}
+
+footer{
+    margin-top: 20px;
+    padding-bottom: 20px;
+    border-top: 1px solid #CCC;
+    text-align: center;
+
+}
